@@ -1,0 +1,92 @@
+{
+    "books": [
+        {
+            "era": "a",
+            "author": "",
+            "title": "Księga Rodzaju",
+            "genre": "Księga Genesis",
+            "theme": "Stworzenie świata i człowieka",
+            "characters": ["Adam", "Ewa", "Zwierzęta"]
+        },
+        {
+            "era": "a",
+            "author": "",
+            "title": "Księga Hioba",
+            "genre": "Księga mądrościowa",
+            "theme": "Niezawinione cierpienie",
+            "characters": ["Hiob", "Żona", "Przyjaciele"]
+        },
+        {
+            "era": "a",
+            "author": "",
+            "title": "Księga Koheleta",
+            "genre": "Księga mądrościowa",
+            "theme": "Marność, przemijalność, cykliczność",
+            "characters": ["Kohelet"]
+        },
+        {
+            "era": "a",
+            "author": "",
+            "title": "Pieśń nad Pieśniami",
+            "genre": "Pieśń",
+            "theme": "wyznania miłości",
+            "characters": ["Oblubieniec i Oblubienica"]
+        },
+        {
+            "era": "a",
+            "author": "",
+            "title": "Księga Psalmów",
+            "genre": "Psalm",
+            "theme": "Uwielbienie Boga",
+            "characters": ["Bóg", "Człowiek"]
+        },
+        {
+            "era": "a",
+            "author": "",
+            "title": "Apokalipsa wg. św. Jana",
+            "genre": "Apokalipsa",
+            "theme": "Konieć świata",
+            "characters": ["4 jeźdzców", "Jan"]
+        },
+        {
+            "era": "a",
+            "author": "Jan Parandowski",
+            "title": "Mitologia, część I Grecja",
+            "genre": "Mitologia",
+            "theme": "Bóstwa greckie",
+            "characters": ["Zeus", "Hera", "Achilles"]
+        },
+        {
+            "era": "a",
+            "author": "Homer",
+            "title": "Illiada",
+            "genre": "Epos",
+            "theme": "Wojna trojańska",
+            "characters": ["Helena", "Parys", "Hektor", "Achilles", "Agamemnon"]
+        },
+        {
+            "era": "a",
+            "author": "Homer",
+            "title": "Odyseja",
+            "genre": "Epos",
+            "theme": "Powrót do ojczyzny",
+            "characters": ["Odyseusz", "Penelopa"]
+        },
+        {
+            "era": "a",
+            "author": "Sofokles",
+            "title": "Antygona",
+            "genre": "Tragedia antyczna",
+            "theme": "Pochówek brata, sprzeciw wobec króla",
+            "characters": ["Antygona", "Kreon", "Ismena", "Hajmond"]
+        },
+        {
+            "era": "a",
+            "author": "Horacy",
+            "title": "Wybudowałem pomnik",
+            "genre": "Oda",
+            "theme": "Nieśmiertelna sława",
+            "characters": []
+        }
+    ]
+}

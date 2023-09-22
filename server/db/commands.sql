@@ -1,0 +1,15 @@
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+INSERT INTO books VALUES(0, 'Antyk', '', 'Księga Rodzaju', 'Księga Genesis', 'Stworzenie świata i człowieka', 'Adam,Ewa,Zwierzęta');
+INSERT INTO books VALUES(1, 'Antyk', '', 'Księga Hioba', 'Księga mądrościowa', 'Niezawinione cierpienie', 'Hiob,Żona,Przyjaciele');
+INSERT INTO books VALUES(2, 'Antyk', '', 'Księga Koheleta', 'Księga mądrościowa', 'Marność, przemijalność, cykliczność', 'Kohelet');
+INSERT INTO books VALUES(3, 'Antyk', '', 'Pieśń nad Pieśniami', 'Pieśń', 'wyznania miłości', 'Oblubieniec i Oblubienica');
+INSERT INTO books VALUES(4, 'Antyk', '', 'Księga Psalmów', 'Psalm', 'Uwielbienie Boga', 'Bóg,Człowiek');
+INSERT INTO books VALUES(5, 'Antyk', '', 'Apokalipsa wg. św. Jana', 'Apokalipsa', 'Konieć świata', '4 jeźdzców,Jan');
+INSERT INTO books VALUES(6, 'Antyk', 'Jan Parandowski', 'Mitologia, część I Grecja', 'Mitologia', 'Bóstwa greckie', 'Zeus,Hera,Achilles');
+INSERT INTO books VALUES(7, 'Antyk', 'Homer', 'Illiada', 'Epos', 'Wojna trojańska', 'Helena,Parys,Hektor,Achilles,Agamemnon');
+INSERT INTO books VALUES(8, 'Antyk', 'Homer', 'Odyseja', 'Epos', 'Powrót do ojczyzny', 'Odyseusz,Penelopa');
+INSERT INTO books VALUES(9, 'Antyk', 'Sofokles', 'Antygona', 'Tragedia antyczna', 'Pochówek brata, sprzeciw wobec króla', 'Antygona,Kreon,Ismena,Hajmond');
+INSERT INTO books VALUES(10, 'Antyk', 'Horacy', 'Wybudowałem pomnik', 'Oda', 'Nieśmiertelna sława', '');
+DELETE FROM sqlite_sequence;
+COMMIT;

@@ -1,0 +1,9 @@
+{
+    "name": "lektury",
+    "module": "",
+    "type": "module",
+    "scripts": {
+        "frontend": "cd frontend && bun dev",
+        "server": "cd server && bun start"
+    }
+}
